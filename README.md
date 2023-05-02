@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisselberg
-- 👀 I’m interested in machine learning, website development, and making lives better through programming
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in machine learning, website development, and backend engineering
+- 🌱 I’m currently learning Tailwind CSS
 - 📫 Feel free to email me at kselberg@princeton.edu with any questions, opportunities, or thoughts
 
 <!---
