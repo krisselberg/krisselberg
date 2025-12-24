@@ -1,4 +1,4 @@
-Forward-deployed AI solutions
+Training + benchmarking models on physics simulations
 
 <!---
 krisselberg/krisselberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
